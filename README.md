@@ -132,6 +132,3 @@ Successfully transformed a paper-based student and fee management process into a
 **Agniva Ghosh**
 
 If you found this project helpful, feel free to ⭐ this repository.
-## 🔒 Privacy Notice
-
-This project was developed for a real client. To protect client confidentiality and privacy, the original Excel workbook, datasets, and other sensitive files are not included in this repository. The dashboard screenshot and project documentation are shared solely to demonstrate the solution and the Excel techniques used.
